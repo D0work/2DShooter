@@ -270,7 +270,7 @@ MonoBehaviour:
       m_Flags: 4
     - m_Name: up
       m_Id: 99c05673-93e7-4539-bf05-22e2e41cbf25
-      m_Path: <Keyboard>/z
+      m_Path: <Keyboard>/w
       m_Interactions: 
       m_Processors: 
       m_Groups: 
@@ -286,7 +286,7 @@ MonoBehaviour:
       m_Flags: 8
     - m_Name: left
       m_Id: 3c9c28cb-164f-4cc8-a990-7787ef197dea
-      m_Path: <Keyboard>/q
+      m_Path: <Keyboard>/a
       m_Interactions: 
       m_Processors: 
       m_Groups: 
